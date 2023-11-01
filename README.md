@@ -15,4 +15,4 @@ This is a responsive website with html, css and javaScript.
 
 ## Acknowledgements
 
- - Follow and subscribe contributors for this project [GT Coding](https://youtu.be/p5XWFVt9tY8?si=oczwjPUGSiT0rr4K)
+ - Special thanks for GT Coding for this lesson, please follow and subscribe contributors for this project [GT Coding](https://youtu.be/p5XWFVt9tY8?si=oczwjPUGSiT0rr4K)
